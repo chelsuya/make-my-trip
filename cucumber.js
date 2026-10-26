@@ -10,4 +10,4 @@ export default {
         "html:reports/cucumber-report.html"]
 
 //it tells Cucumber where my step definition and support files are,
-//where my feature files are, and how to display the test execution results.
+//where my feature files are, and how to display the test execution results
